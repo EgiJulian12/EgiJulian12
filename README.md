@@ -8,7 +8,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=14b8a6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=EgiJulian12&label=Profile%20Views&color=14b8a6&style=for-the-badge"/>
 
 </div>
 
@@ -111,9 +111,9 @@ Machine Learning for Child Growth Prediction
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=EgiJulian12&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=EgiJulian12&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -123,7 +123,7 @@ Machine Learning for Child Growth Prediction
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EgiJulian12&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -133,7 +133,7 @@ Machine Learning for Child Growth Prediction
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=EgiJulian12&theme=algolia&column=4&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -165,15 +165,15 @@ Machine Learning for Child Growth Prediction
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/egijulian12">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:egyjulian8@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/YOUR_INSTAGRAM">
+<a href="https://instagram.com/EgiJulian12">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
