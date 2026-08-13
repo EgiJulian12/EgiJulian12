@@ -2,7 +2,7 @@
 
 # Hi there, I'm Egi Julian 👋
 
-### 💻 Informatics Student | Front-End Developer | UI/UX Designer | AI Enthusiast
+### 💻 Informatics Student | Data Enthusiast | Front-End Developer | UI/UX Designer | AI Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Building+Modern+Web+Applications;Passionate+about+UI%2FUX+Design;Learning+Artificial+Intelligence;Always+Learning+Something+New" />
 
@@ -22,6 +22,8 @@ Education: Informatics Student
 Location: Indonesia 🇮🇩
 
 Interests:
+  - Data Science
+  - Data Analyst
   - Front-End Development
   - Full Stack Development
   - UI/UX Design
@@ -30,6 +32,7 @@ Interests:
   - Graphic Design
 
 Currently Learning:
+  - Python
   - React
   - Express JS
   - Machine Learning
